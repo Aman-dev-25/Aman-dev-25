@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source data projects
 - 📫 Reach me at: aman103.du@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: My brain sparks more in bathroom than in workplace
+- ⚡ Fun fact: My brain sparks more in bathroom than in desk
 
 <!---
 Aman-dev-25/Aman-dev-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
